@@ -18,3 +18,4 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 #echo 'src-git modemfeed https://github.com/koshev-msk/modemfeed.git' >>feeds.conf.default
 #echo 'src-git oui https://github.com/zhaojh329/oui.git' >>feeds.conf.default
+echo 'src-git modemfeed https://github.com/koshev-msk/modemfeed.git' >>feeds.conf.default
